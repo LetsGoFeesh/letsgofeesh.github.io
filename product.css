@@ -2,6 +2,59 @@
     max-width: 960px;
   }
 
+#water_icon {
+  margin-top: 10px;
+  width: 18rem;
+  height: 18rem;
+  border-radius: 5px;
+}
+
+
+#lure_icon {
+  background-color: white;
+  margin-top: 25px;
+  width: 16rem;
+  height: 16rem;
+  border-radius: 5px;
+}
+
+#boat_icon {
+  background-color: white;
+  margin-top: 25px;
+  width: 16rem;
+  height: 16rem;
+  border-radius: 5px;
+}
+
+#apparel_icon {
+  margin-top: 25px;
+  width: 16rem;
+  height: 16rem;
+  border-radius: 5px;
+}
+
+#electronics_icon {
+  margin-top: 25px;
+  width: 16rem;
+  height: 16rem;
+  border-radius: 5px;
+}
+
+#guides_icon {
+  margin-top: 25px;
+  width: 16rem;
+  height: 16rem;
+  border-radius: 5px;
+}
+
+
+
+#jumbo {
+  background-image: url(https://webstockreview.net/images/clipart-fish-icon.png);
+  background-size: contain;
+  color: white;
+}
+
   /*
    * Custom translucent site header
    */
@@ -72,4 +125,3 @@
   }
 
   .overflow-hidden { overflow: hidden; }
-  
